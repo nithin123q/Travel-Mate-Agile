@@ -23,3 +23,5 @@ Delivered final presentation showcasing TravelMate’s adaptive, user-focused de
 
 
 Trello Link: https://trello.com/b/IorNAHMQ/my-trello-board
+
+Figma: https://www.figma.com/design/uiQc7nUR08JgAZvkSlAfAM/RiaTyagi_Spring2024?node-id=1729-139&t=UwqWYQ55WFJg4TOB-0
