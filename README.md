@@ -20,3 +20,6 @@ Sprint 3: Final features (itinerary planner, booking notes, support & live chat)
 Analyzed burndown and velocity charts to track team performance and predict sprint capacity, enabling accurate planning and scope management.
 
 Delivered final presentation showcasing TravelMate’s adaptive, user-focused design, demonstrating the success of Agile principles in practice.
+
+
+Trello Link: https://trello.com/b/IorNAHMQ/my-trello-board
